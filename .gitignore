@@ -1,0 +1,10 @@
+# 密钥与本地配置
+backend/.env
+
+# Agent 的工作区与运行时产物
+workspace/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
